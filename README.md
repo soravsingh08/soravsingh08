@@ -1,26 +1,27 @@
-Hey there👋
+Hey there 👋  
 
-I am Sorav Frontend Developer from India 🇮🇳
-I build clean, practical, and distraction-free web experiences.
+I'm Sorav, a frontend developer based in India.
 
-Currently focused on React, real-world projects, and writing code that actually makes sense.
-I like breaking things, fixing them, and understanding why they broke in the first place.
+I mostly work on frontend development — JavaScript, React, and building clean, practical user interfaces.  
+I enjoy working on real projects that solve small but meaningful problems.
 
-If something feels cluttered, slow, or unnecessary
-I try to simplify it.
+This profile is where I’ll be sharing projects I’m actively building, experimenting with, and learning from.  
+Most things here are built from scratch while learning, focusing on clarity rather than complexity.
 
-Tech I work with 🧠
-JavaScript (ES6+)
-React.js
-HTML, CSS
-Git & GitHub
-Basic Redux
-REST APIs
+---
 
-About me 👀
+### Tools & Tech  
 
-JavaScript is my primary language and the foundation of how I approach problem-solving and development
+- JavaScript (ES6+), React  
+- HTML, CSS  
+- Git & GitHub  
+- Basic Redux  
+- REST APIs  
 
-Strong interest in psychology and music, particularly in understanding human behavior and emotional response 
+---
 
-Favorite movie: 3 Idiots 🎬
+### A Bit About Me  
+
+- JavaScript is my primary language and the way I approach problem-solving  
+- Interested in psychology and music, especially how they influence human behavior  
+- Favorite movie: *3 Idiots*  
