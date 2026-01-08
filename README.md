@@ -18,6 +18,9 @@ Basic Redux
 REST APIs
 
 About me 👀
+
 JavaScript is my primary language and the foundation of how I approach problem-solving and development
-Strong interest in psychology and music, particularly in understanding human behavior and emotional response
+
+Strong interest in psychology and music, particularly in understanding human behavior and emotional response 
+
 Favorite movie: 3 Idiots 🎬
