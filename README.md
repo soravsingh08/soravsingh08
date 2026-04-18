@@ -2,7 +2,7 @@ Hey there 👋
 
 I'm Sorav, a frontend developer based in India.
 
-I mostly work on frontend development — JavaScript, React, and building clean, practical user interfaces.  
+I mostly work on frontend development, JavaScript, React, and building clean, practical user interfaces.  
 I enjoy working on real projects that solve small but meaningful problems.
 
 This profile is where I’ll be sharing projects I’m actively building, experimenting with, and learning from.  
